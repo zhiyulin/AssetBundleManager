@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2697615137
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: abtest_red.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: abtest.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: cube_green.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: textures.unity3d
+      Dependencies: {}

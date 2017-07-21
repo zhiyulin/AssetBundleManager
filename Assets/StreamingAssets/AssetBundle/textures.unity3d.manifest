@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 1875054565
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47c5c504e27a598db5b79b9345e9c894
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefab/textures/bg_a@2x.png
+- Assets/prefab/textures/QQinvite@2x.png
+- Assets/prefab/textures/title_querenchupai@2x.png
+- Assets/prefab/textures/fangka328@2x.png
+- Assets/prefab/textures/title_fangrupaixing@2x.png
+- Assets/prefab/textures/teshupaixingzhanshi@2x.png
+- Assets/prefab/textures/sss@2x.png
+- Assets/prefab/textures/fangka30@2x.png
+- Assets/prefab/textures/title_paixingdaxiao@2x.png
+- Assets/prefab/textures/fangka68@2x.png
+- Assets/prefab/textures/wxinvite@2x.png
+- Assets/prefab/textures/zhanji@2x.png
+- Assets/prefab/textures/title_bifen@2x.png
+- Assets/prefab/textures/bg_c@2x.png
+- Assets/prefab/textures/pokers@2x.png
+- Assets/prefab/textures/sssMajia@2x.png
+- Assets/prefab/textures/roomdata_bg.png
+- Assets/prefab/textures/title_wanfa@2x.png
+- Assets/prefab/textures/roomBG.png
+- Assets/prefab/textures/title_quanleida@2x.png
+- Assets/prefab/textures/tanchuang_bg_shadow@2x.png
+- Assets/prefab/textures/yueka_banner@2x.png
+- Assets/prefab/textures/BG@2x.png
+- Assets/prefab/textures/specialcar_confirm.png
+- Assets/prefab/textures/title_daqiang@2x.png
+- Assets/prefab/textures/fangka128@2x.png
+- Assets/prefab/textures/zhouka_banner@2x.png
+- Assets/prefab/textures/fangka6@2x.png
+- Assets/prefab/textures/LOGO@2x.png
+- Assets/prefab/textures/title_wanchengjiaocheng@2x.png
+- Assets/prefab/textures/bingdingBg.png
+- Assets/prefab/textures/wechatlog@2x.png
+- Assets/prefab/textures/title_kaishi@2x.png
+- Assets/prefab/textures/meiridenglu@2x.png
+- Assets/prefab/textures/BG@3X.png
+- Assets/prefab/textures/renewalbg.png
+- Assets/prefab/textures/qikaidesheng@2x.png
+- Assets/prefab/textures/bg_b@2x.png
+- Assets/prefab/textures/QQlog@2x.png
+- Assets/prefab/textures/fangka648@2x.png
+- Assets/prefab/textures/common_bg_shadow@2x.png
+- Assets/prefab/textures/title_xuanzepaixing@2x.png
+Dependencies: []

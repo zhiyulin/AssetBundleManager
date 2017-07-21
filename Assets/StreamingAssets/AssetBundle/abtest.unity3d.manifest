@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 253663408
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f44d67ab6b2a1cc76c56f971ed6a304
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3029671299e5c017388f325c4a66dd5a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefab/Torch_green.prefab
+Dependencies: []
